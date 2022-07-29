@@ -5,9 +5,3 @@ body {
 .filter-brightness {
     filter: brightness(50%);
 }
-
-.carousel-caption {
-    top: 45%;
-    transform: translateY(-45%);
-    bottom: initial;
-}
